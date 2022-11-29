@@ -15,7 +15,8 @@
    
 
     function mifuncion() {
-        alert(document.getElementById('bloque2'))
+        text = document.getElementById('bloque2').value;
+        alert("Bienvenido " + text);
 
     }
 
@@ -41,7 +42,8 @@
             <input id="bloque1" type="text">
 
             <p id="paragraph2">Introduce apellido 1</p>
-            <input id="bloque2" type="text" onclick="mifuncion()">
+            <input id="bloque2" type="text" >
+            <button onclick="mifuncion()">Púlsame</button>
 
 
 

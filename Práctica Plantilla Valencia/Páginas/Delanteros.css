@@ -2,19 +2,12 @@
 
 
 
-#estructurageneral {
-    align-content: center;
-    
 
-
-
-
-}
 
 #menuprincipal {
     display: flex;
     align-content: center;
-    justify-items: auto;
+    justify-items: center;
     flex-wrap: nowrap;
 }
 
@@ -22,26 +15,17 @@
 .botonprincipal {
 justify-items: auto;
 border: black 1px solid;
-flex-basis: 40px;
 margin-right: 22%;
+flex-basis: 40px;
 }
 
 
 .navbar {
     overflow: hidden;
-    background-color: rgb(255, 0, 0);
+    background-color:rgb(252, 0, 0);
     position: fixed;
     top: 0;
     width: 100%;
-
-}
-
-
-
-#tituloformato {
-    padding-top: 50px;
-
-
 
 }
 

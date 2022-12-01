@@ -13,9 +13,11 @@
 
 #menuprincipal {
     display: flex;
-    align-content: center;
+    align-content: stretch;
     justify-items: auto;
     flex-wrap: nowrap;
+   
+    
 }
 
 

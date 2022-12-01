@@ -2,8 +2,6 @@
 
 
 
-
-
 #menuprincipal {
     display: flex;
     align-content: center;
@@ -29,18 +27,17 @@
 
 }
 
-#headerdelanteros {
+#headercentrocampistas {
     padding-top: 50px;
 
 
 
 }
 
-
 #footer {
-   margin-top: 40%;
-
-}
+    margin-top: 40%;
+ 
+ }
 
 
 body {
@@ -48,4 +45,3 @@ body {
     background-color:rgb(215, 238, 238)
     
     }
-

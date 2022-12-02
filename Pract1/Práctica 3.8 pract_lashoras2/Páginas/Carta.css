@@ -1,0 +1,22 @@
+
+
+body {
+    background-color: bisque;
+
+
+}
+
+#titlelacarta {
+    color: brown;
+    display: flex;
+    margin-left: 45%;
+}
+
+.entradamenu {
+    color: brown;
+    font-weight: 300;
+
+}
+
+
+

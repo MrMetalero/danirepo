@@ -1,8 +1,51 @@
 
 
+#titlelashoras{
+    display: flex;
+    margin-left: 45%;
+
+
+}
+
+
+#divcarta {
+    display: flex;
+    margin-left: 10%;
+    margin-top: 150px;
+    font-style: italic;
+    color: brown;
+}
 
 
 
+#divcafe {
+    display: flex;
+    margin-left: 45%;
+    margin-top: 100px;
+    font-style: italic;
 
+}
+
+#divcontacto {
+    display: flex;
+    margin-left: 80%;
+    font-style: italic;
+
+}
+
+
+body {
+    background-color:bisque;
+
+
+
+}
+
+#footerprincipal {
+ 
+    margin-top: 50%;
+    margin-bottom: 3%;
+
+}
 
 

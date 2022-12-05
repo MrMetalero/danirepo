@@ -1,14 +1,24 @@
 
 body{
     background-color: bisque;
-
-
+   
 }
 
 #titlecafe {
     display: flex;
-    margin-left: 45%;
-
-
+   
+    max-width: 150px;
+    margin-left: 500px;
+    min-width: 150px;
 }
+
+p {
+    color: rgb(196, 36, 36);
+    display: flex;
+    max-width: 1300px;
+    margin-left: 50px;
+    min-width: 1300px;
+}
+
+
 
